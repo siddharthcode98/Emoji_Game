@@ -1,0 +1,17 @@
+.image {
+  width: 60%;
+}
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  padding: 10px;
+}
+.btnElement2 {
+  background-color: #ffce27;
+  border-radius: 7px;
+  border-style: none;
+  padding: 10px;
+}

@@ -1,0 +1,22 @@
+p {
+  font-weight: bold;
+  margin-right: 10px;
+}
+.navContainer {
+  display: flex;
+  background-color: #ffffff33;
+  justify-content: space-between;
+  padding: 10px;
+}
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+.scoreContainer {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  justify-content: space-between;
+  list-style: none;
+}
